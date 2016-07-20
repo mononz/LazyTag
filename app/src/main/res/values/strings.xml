@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LazyTag</string>
+    <string name="content_authority" translatable="false">net.mononz.lazytag</string>
+
+    <string name="analytics_add">Added</string>
+    <string name="analytics_remove">Removed</string>
+    <string name="analytics_main">Main</string>
+
+</resources>
